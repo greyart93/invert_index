@@ -1,7 +1,7 @@
 # Usage
 
 ```python
-from inverted_index import create_inverted_index, print_inverted_index, search
+from invert_index import create_inverted_index, print_inverted_index, search
 
 documents = {
     "doc1": "Python is Awesome.",
